@@ -1,2 +1,8 @@
-# sinatra-sveltekit
-Exempel mini-projekt med Sinatra backend och SvelteKit frontend
+## Frontend
+SvelteKit
+
+npx sv create sveltekit-app
+npm run dev -- --open
+
+## Backend 
+Ruby, Sinatra, SQLite
