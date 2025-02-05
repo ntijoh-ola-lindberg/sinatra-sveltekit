@@ -1,3 +1,8 @@
+# Exempel Ruby backend - SvelteKit frontend
+
+![Backend - Frontend](docs/img/backend-frontend.png)  
+*Backendn - Frontend*
+
 ## Frontend
 SvelteKit webbapp
 
